@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/administrator/catkin/devel_isolated/raptor_dbw_msgs/include/**",
+        "/home/administrator/catkin/devel_isolated/radar_interface/include/**",
+        "/home/administrator/catkin/devel_isolated/pdu_msgs/include/**",
+        "/home/administrator/catkin/devel_isolated/husky_msgs/include/**",
+        "/home/administrator/catkin/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/administrator/catkin/src/raptor-dbw-ros/can_dbc_parser/include/**",
+        "/home/administrator/catkin/src/do13_husky/include/**",
+        "/home/administrator/catkin/src/husky/husky/husky_base/include/**",
+        "/home/administrator/catkin/src/kvaser_interface/include/**",
+        "/home/administrator/catkin/src/radar_interface/include/**",
+        "/home/administrator/catkin/src/raptor-dbw-ros/raptor_dbw_can/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
